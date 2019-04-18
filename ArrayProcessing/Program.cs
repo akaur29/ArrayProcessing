@@ -18,7 +18,7 @@ namespace ArrayProcessing
         static void printRepeating(int[] arr, int size)
         {
             int i, j;
-            Console.Write("elementthatRepeatThreeTimes");
+            Console.Write("element that Repeat 3 Times");
             for (i = 0; i < size; i++)
             {
                 for (j = i + 1; j < size; j++)
